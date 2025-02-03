@@ -77,7 +77,7 @@ This app is perfect for anyone looking for a reliable and efficient tool for per
 
 | Calculator UI |
 | ------------- |
-| ![UI Preview](UI.png) |
+| ![UI Preview](lib/UI.png) |
 
 ---
 
