@@ -1,7 +1,6 @@
 # 📱 Flutter Calculator
 
-A sleek, functional, and user-friendly calculator app built with Flutter. 🚀
-
+🚀 A beautifully designed, highly functional, and incredibly user-friendly calculator application created using the Flutter framework. This app is perfect for anyone looking for a reliable and efficient tool for performing calculations. 
 ---
 
 ## ✨ Features & Skills
