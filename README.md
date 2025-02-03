@@ -1,3 +1,4 @@
+
 # 📱 Flutter Calculator
 
 🚀 A beautifully designed, highly functional,
@@ -109,5 +110,3 @@ This app is perfect for anyone looking for a reliable and efficient tool for per
 - 🎨 **Styling and UI customization with Flutter components**
 
 I hope you find this project useful and inspiring! ✨🚀
-
->>>>>>> 47d0efe34eb37757e1f915de4a417e22a9d53bda
